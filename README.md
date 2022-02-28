@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ptachukf
+- 👀 I’m interested in programming, sports.
+- 🌱 I’m currently learning Java.
